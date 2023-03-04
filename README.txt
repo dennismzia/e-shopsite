@@ -1,5 +1,5 @@
   =>  Site Name        : EShop
 
-  =>  site  Link       : https://e-shop.github.io
+  =>  site  Link       : TODO upload site to githubpages once finished
 
   =>   Authors         : Group A members
